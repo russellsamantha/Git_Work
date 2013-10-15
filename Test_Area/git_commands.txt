@@ -1,0 +1,26 @@
+https://github.com/russellsamantha/Git_Work.git
+
+Create Folder where to keep repository.
+cd to folder location.
+1st time
+   git config --global user.name "Sam R"
+   git config --global user.email russell.samantha@gmail.com
+   git remote -v (checks if a remote exists)
+   git remote add origin https://github.com/russellsamantha/Git_Work.git (origin is the name of the remote)
+   git clone https://github.com/russellsamantha/Git_Work.git  (copies repository from github into current folder)
+   
+Subsequent times
+
+   git pull origin master (copies repository from github into local repository)
+  >make changes on local repository
+   git add . (adds changes to staging area)
+   git status (views changes before commit)
+   git commit -m "msg" (commits changes ready to push to github repository)
+   git push origin master
+   
+   git log (views a list of commits)
+   git diff (shows the difference between the master and changes made)
+   
+   
+
+   
