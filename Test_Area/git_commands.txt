@@ -16,7 +16,7 @@ Subsequent times
    git add . (adds changes to staging area)
    git status (views changes before commit)
    git commit -m "msg" (commits changes ready to push to github repository)
-   git push origin master
+   git push origin master (on push, prompted for github username + password)
    
    git log (views a list of commits)
    git diff (shows the difference between the master and changes made)
