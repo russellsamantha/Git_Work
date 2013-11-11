@@ -1,0 +1,11 @@
+https://www.simple-talk.com/dotnet/asp.net/modal-input-forms-in-asp.net-mvc/
+
+http://demo.aspnetawesome.com/PopupDemo
+
+http://www.codeproject.com/Articles/315535/How-to-render-MVC-View-on-a-Modal-Popup-Window
+
+http://www.youtube.com/watch?v=RokXgBFSvp8
+
+http://forums.asp.net/t/1879576.aspx
+
+http://www.dotnet-tricks.com/Tutorial/mvc/42R0171112-CRUD-Operations-using-jQuery-dialog-and-Entity-Framework---MVC-Razor.html
